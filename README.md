@@ -1,6 +1,6 @@
 # CImage
 
-A fast dynamic image compression class written in C++ to compress image to the lowest possible quality without loss in psychovisual quality and save in JPEG format.
+A fast dynamic image compression class written in C++ to compress image to the lowest possible size without loss in psychovisual quality and save in JPEG format.
 
 ## Required libraries
 
